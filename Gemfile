@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 source 'https://rubygems.org'
 gem 'github-pages', group: :jekyll_plugins
-#gem 'remote_theme'
-gem 'plainwhite'
+gem 'jekyll-remote-theme'
 gem 'webrick'

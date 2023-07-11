@@ -1,4 +1,4 @@
-remote_theme: samarsault/plainwhite-jekyll
+remote_theme: "thelehhman/plainwhite-jekyll"
 title: Your awesome title
 author: GitHub User
 email: your-email@domain.com
@@ -57,7 +57,6 @@ plainwhite:
 # - about.md
 
 # Build settings
-theme: plainwhite
 
 plugins:
   - jekyll-seo-tag
