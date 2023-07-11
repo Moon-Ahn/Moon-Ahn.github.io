@@ -6,10 +6,15 @@
                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
         <url>
             <loc>http://localhost:4000</loc>
-	    <lastmod>2023-07-11T12:46:39+09:00</lastmod>
+	    <lastmod>2023-07-11T13:12:51+09:00</lastmod>
             <priority>1.00</priority>
         </url><url>
-                <loc>http://localhost:4000/javascript/nodejs/2019/03/24/welcome-to-jekyll-copy.html</loc>
+                <loc>http://localhost:4000/markdown/blog/2023/07/11/postcheck.html</loc>
+                <lastmod>2023-07-11T12:07:00+09:00</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.80</priority>
+            </url><url>
+                <loc>http://localhost:4000/javascript/nodejs/2019/03/24/welcome-to-jekyll-copy-2.html</loc>
                 <lastmod>2019-03-24T00:33:36+09:00</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.80</priority>

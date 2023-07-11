@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "포스트확인용 마크다운"
-date:   2023-07-11 12:51:36 +0530
-categories: Markdown
+title:  "마크다운 포스팅 확인"
+date:   2023-07-11 12:07:00 +09:00
+categories: Markdown Blog
 ---
-포스트 확인을 위한 마크다운입니다.  
 
-첫 포스팅 시작
+포스팅 확인용
+
+첫 포스팅 입니다.
